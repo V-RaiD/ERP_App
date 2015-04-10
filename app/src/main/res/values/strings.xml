@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ItmuERPapp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="erpTagNameLoginPage">"erp"</string>
+    <string name="buttonLoginScreen">"Log In"</string>
+    <string name="usernameFieldText">"Username"</string>
+    <string name="passwordFieldText">"Password"</string>
+    <string name="title_activity_main_app">mainAppActivity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="myPageButtonNavDrawer">"My Page"</string>
+    <string name="attendanceTextView">"Attendance"</string>
+    <string name="profileTextView">"Profile"</string>
+    <string name="labelAttendanceIcon">"Attendance"</string>
+    <string name="title_activity_attendance">attendanceActivity</string>
+    <string name="title_activity_profile">profileActivity</string>
+    <string name="title_activity_register">registerActivity</string>
+    <string name="title_activity_time_table">timeTableActivity</string>
+    <string name="title_activity_result">resultActivity</string>
+    <string name="title_activity_news">newsActivity</string>
+</resources>
